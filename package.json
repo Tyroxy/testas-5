@@ -1,0 +1,18 @@
+{
+  "name": "testas-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev0": "nodemon ./index.js",
+    "dev": "dead-server --port=3004 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrius B. <tyroxy@gmail.com> (https://github.com/tyroxy)",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.6",
+    "nodemon": "^2.0.15"
+  }
+}
